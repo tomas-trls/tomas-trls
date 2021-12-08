@@ -5,8 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/tomas-truyols/" title="LinkedIn Profile"><img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin"></a></code>
+  <a href="https://www.linkedin.com/in/tomas-truyols/" target="_blank"><img height="40px" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </h5>
 <br>
 <p align="center">
