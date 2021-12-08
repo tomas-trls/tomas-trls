@@ -16,13 +16,13 @@
   <br>
   🔬 I'm currently working on some personal projects while looking for a job
   <br>
-  🎓 I graduated from Le Wagon FullStack Developer Bootcamp in London
+  🎓 I just graduated from Le Wagon FullStack Developer Bootcamp in London
   <br>
-  🎓 I graduated from the University of West London with a Creative Computing Degree
+  🎓 and before that I graduated from the University of West London with a Creative Computing Degree
   <br>
   💻 I love writing code and learn new things everyday
   <br>
-  📚 I’m currently improving my JavaScript skills, and later on move on to React.
+  📚 I’m currently improving my JavaScript skills, and will later on move on to React.
   <br>
   💬 Ask me anything about from <a href="https://github.com/tomas-trls/tomas-trls/issues" title="Issues">Here</a>
   <br>
