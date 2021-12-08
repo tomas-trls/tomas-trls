@@ -10,7 +10,8 @@
 <br>
 <p align="center">
   Hi, I'm Tomas TRUYOLS, I'm a 21 years old Fullstack Developer from Spain 🇪🇸 & Panama 🇵🇦!
-  I have lived most of my life in France 🥖🇫🇷. I love working with multicultural people!
+  <br>
+  I have lived most of my life in France 🥖🇫🇷. Therefore, I love working with multicultural people!
   <br>
   <br>
   🔬 I'm currently working on some personal projects while looking for a job
