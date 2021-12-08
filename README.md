@@ -10,7 +10,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Tomas TRUYOLS, a Fullstack Developer from Spain!
+  Hi, I'm Tomas TRUYOLS, a Fullstack Developer from Spain & Panama!
   <br>
   <br>
   🔬 I'm currently working on some personal projects while looking for a job
