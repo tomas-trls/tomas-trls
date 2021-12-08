@@ -9,9 +9,9 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Tomas TRUYOLS, I'm a 21 years old Fullstack Developer from Spain 🇪🇸 & Panama 🇵🇦!
+  Hi, I'm Tomas TRUYOLS, I'm a 21 years old Fullstack Developer from Spain &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="15"/> &nbsp;& Panama &nbsp;<img src="https://cdn-icons.flaticon.com/png/512/4855/premium/4855751.png?token=exp=1638987186~hmac=907605408d0d24f737e18f05d80b09ac" width="15"/> &nbsp;!
   <br>
-  I have lived most of my life in France 🥖🇫🇷. Therefore, I love working with multicultural people!
+  I have lived most of my life in France &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/>. Therefore, I love working with multicultural people!
   <br>
   <br>
   🔬 I'm currently working on some personal projects while looking for a job
