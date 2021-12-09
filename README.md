@@ -9,27 +9,31 @@
   <a href="https://www.linkedin.com/in/tomas-truyols/" target="_blank"><img height="40px" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Tomas TRUYOLS, I'm a 21 years old Fullstack Developer from Spain &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="15"/> &nbsp;& Panama &nbsp;<img src="https://cdn-icons.flaticon.com/png/512/4855/premium/4855751.png?token=exp=1638987186~hmac=907605408d0d24f737e18f05d80b09ac" width="15"/> &nbsp;!
-  <br>
-  I have lived most of my life in France &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/>. Therefore, I love working with multicultural people!
-  <br>
-  <br>
-  🔬 I'm currently working on some personal projects while looking for a job
-  <br>
-  🎓 I just graduated from Le Wagon FullStack Developer Bootcamp in London
-  <br>
-  🎓 and before that I graduated from the University of West London with a Creative Computing Degree
-  <br>
-  💻 I love writing code and learn new things everyday
-  <br>
-  📚 I’m currently improving my JavaScript skills, and will later on move on to React.
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/tomas-trls/tomas-trls/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: tomast25@hotmail.com">tomast25@hotmail.com</a>
-</p>
-
+<table border-style="none">
+ <tr>
+   <td>
+    Hi, I'm Tomas TRUYOLS, I'm a 21 years old Fullstack Developer from Spain &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="15"/> &nbsp;& Panama &nbsp;<img src="https://cdn-icons.flaticon.com/png/512/4855/premium/4855751.png?token=exp=1638987186~hmac=907605408d0d24f737e18f05d80b09ac" width="15"/> &nbsp;!
+    <br>
+    I have lived most of my life in France &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/>. Therefore, I love working with multicultural people!
+    <br>
+    <br>
+    🔬 I'm currently working on some personal projects while looking for a job
+    <br>
+    🎓 I just graduated from Le Wagon FullStack Developer Bootcamp in London
+    <br>
+    🎓 and before that I graduated from the University of West London with a Creative Computing Degree
+    <br>
+    💻 I love writing code and learn new things everyday
+    <br>
+    📚 I’m currently improving my JavaScript skills, and will later on move on to React.
+    <br>
+    💬 Ask me anything about from <a href="https://github.com/tomas-trls/tomas-trls/issues" title="Issues">Here</a>
+    <br>
+    📫 How to reach me: <a href="mailto: tomast25@hotmail.com">tomast25@hotmail.com</a>
+    </td>
+    <td><a href="https://app.daily.dev/MrGwak"><img src="https://api.daily.dev/devcards/96771957458b4bdfbbdbc6f5bfc93be1.png?r=2qp" width="400" alt="Tomas's Dev Card"/></a>         </td>
+ </tr>
+</table>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
