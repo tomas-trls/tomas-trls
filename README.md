@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/tomas-truyols/" target="_blank"><img height="40px" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </h5>
 <br>
-<table border-style="none">
+<table>
  <tr>
    <td>
     Hi, I'm Tomas TRUYOLS, I'm a 21 years old Fullstack Developer from Spain &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="15"/> &nbsp;& Panama &nbsp;<img src="https://cdn-icons.flaticon.com/png/512/4855/premium/4855751.png?token=exp=1638987186~hmac=907605408d0d24f737e18f05d80b09ac" width="15"/> &nbsp;!
