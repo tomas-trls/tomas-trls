@@ -12,7 +12,7 @@
 <table>
  <tr>
    <td>
-    Hi, I'm Tomas TRUYOLS, I'm a 21 years old Fullstack Developer from Spain &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="15"/> &nbsp;& Panama &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197590.png" width="15"/> &nbsp;!
+    Hi, I'm Tomas TRUYOLS, I'm a 21 years old Full Stack Developer from Spain &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="15"/> &nbsp;& Panama &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197590.png" width="15"/> &nbsp;!
     <br>
     I have lived most of my life in France &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/>. Therefore, I love working with multicultural people!
     <br>
