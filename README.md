@@ -64,10 +64,10 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tomas-trls&theme=radical&border=61dafb&hide_border=true" alt="tomas-trls" />
     </a>
     
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-trls&layout=compact)
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-trls&layout=compact&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true">
-    </a> -->
+    </a> 
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
