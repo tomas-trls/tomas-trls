@@ -35,7 +35,7 @@
  </tr>
 </table>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages  &  Frameworks  &  Tools  &  Skills 🔥</h2>
 <br>
 <p align="center">
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
