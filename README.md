@@ -25,7 +25,7 @@
     <br>
     💻 I love writing code and learn new things everyday
     <br>
-    📚 I’m currently learning React, HTML5 Canvas and will soon start working with Three.js.
+    📚 I’m currently coding a Discord Music bot and will soon start working with Three.js.
     <br>
     💬 Ask me anything about from <a href="https://github.com/tomas-trls/tomas-trls/issues" title="Issues">Here</a>
     <br>
@@ -75,7 +75,7 @@
     
   
  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-trls&layout=compact&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-trls&layout=compact&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true&langs_count=6">
     </a> 
   </div>
   <br><br><br><br><br><br><br><br><br>
