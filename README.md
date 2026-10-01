@@ -12,20 +12,24 @@
 <table>
  <tr>
    <td>
-    Hi, I'm Tomas TRUYOLS, I'm a 24 years old Full Stack Developer from Spain &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="15"/> &nbsp;& Panama &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197590.png" width="15"/> &nbsp;!
+    Hi, I'm Tomas TRUYOLS CHAVARRIA, I'm a 26 years old Full Stack Developer from Spain &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="15"/> &nbsp;& Panama &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197590.png" width="15"/> &nbsp;!
     <br>
     I have lived most of my life in France &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/>. Therefore, I love working with multicultural people!
+     <br>  <br>
+    Driven by the intersection of technology, data, and business, I aim to expand my quantitative and analytical expertise in order to work closely with business teams and progressively move into product-focused roles where data allows both strategic and operational decisions.
     <br>
+     <br>
+    🎓 I'm currently pursuing a Master of Science in Business Analytics at University College London (UCL).
     <br>
-    🔬 I'm currently a Client Analytics Consultant Engineer at Goldman Sachs via _Nology.
+    🔬 I was a Client Analytics Consultant Engineer at Goldman Sachs via _Nology.
     <br>
     🎓 I  graduated from Le Wagon FullStack Developer Bootcamp in London in December 2021.
     <br>
-    🎓 and before that I graduated from the University of West London in July 2021 with a Creative Computing Degree.
+    🎓 And before that I graduated from the University of West London in July 2021 with a Creative Computing Degree.
     <br>
     💻 I love writing code and learn new things everyday
     <br>
-    📚 I’m currently learning Angular, Python and Finance.
+    📚 I’m currently learning Statistics, Python and Strategical Analytics.
     <br>
     💬 Ask me anything about from <a href="https://github.com/tomas-trls/tomas-trls/issues" title="Issues">Here</a>
     <br>
